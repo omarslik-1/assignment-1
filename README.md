@@ -36,6 +36,7 @@ assignment-1/
 │   ├── ai-usage-report.md
 │   └── technical-documentation.md
 └── README.md
+
 ```
 
 ## AI usage (summary)

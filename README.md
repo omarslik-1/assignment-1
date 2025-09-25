@@ -1,9 +1,11 @@
 # assignment-1
 
 A simple, responsive personal portfolio starter built for **Assignment 1 – Foundation & AI Integration**.
+Repository: https://github.com/omarslik-1/assignment-1
+
 
 ## Live demo
-https://github.com/omarslik-1/assignment-1
+Live demo:  https://omarslik-1.github.io/assignment-1/
 
 ## Run locally
 ```bash

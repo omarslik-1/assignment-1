@@ -5,15 +5,14 @@ A simple, responsive personal portfolio starter built for **Assignment 1 – Fou
 ## Live demo
 If you deploy with GitHub Pages, your link will look like:
 ```
-https://<USERNAME>.github.io/assignment-1/
+https://omarslik-1.github.io/assignment-1/
 ```
 
 ## Run locally
 ```bash
-git clone https://github.com/<USERNAME>/assignment-1.git
+git clone https://github.com/omarslik-1/assignment-1.git
 cd assignment-1
-# Open index.html in your browser (or use Live Server)
-```
+
 
 ## Features
 - Sections: **About**, **Projects**, **Contact**

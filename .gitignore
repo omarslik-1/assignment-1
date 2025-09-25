@@ -1,0 +1,4 @@
+# Optional ignores (not strictly needed for this assignment)
+.DS_Store
+node_modules/
+dist/

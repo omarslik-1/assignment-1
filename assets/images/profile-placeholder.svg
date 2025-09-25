@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#5eead4"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="#0b0e14"/>
+  <circle cx="400" cy="230" r="110" fill="url(#g)" opacity="0.85"/>
+  <rect x="220" y="360" width="360" height="140" rx="20" fill="#11151e" stroke="#232a36"/>
+  <text x="400" y="420" fill="#e6e6e6" font-size="28" font-family="Inter, Arial" text-anchor="middle">Omar Slik</text>
+  <text x="400" y="460" fill="#a9b0bc" font-size="18" font-family="Inter, Arial" text-anchor="middle">Portfolio Starter</text>
+</svg>

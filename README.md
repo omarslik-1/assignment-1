@@ -3,7 +3,7 @@
 A simple, responsive personal portfolio starter built for **Assignment 1 – Foundation & AI Integration**.
 
 ## Live demo
-https://omarslik-1.github.io/assignment-1/
+https://github.com/omarslik-1/assignment-1
 
 ## Run locally
 ```bash

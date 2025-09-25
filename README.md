@@ -3,24 +3,13 @@
 A simple, responsive personal portfolio starter built for **Assignment 1 – Foundation & AI Integration**.
 
 ## Live demo
-If you deploy with GitHub Pages, your link will look like:
-```
-https://github.com/omarslik-1/assignment-1
-```
+https://omarslik-1.github.io/assignment-1/
 
 ## Run locally
 ```bash
 git clone https://github.com/omarslik-1/assignment-1.git
 cd assignment-1
-
-
-## Features
-- Sections: **About**, **Projects**, **Contact**
-- Responsive layout (CSS Grid/Flex)
-- Smooth scrolling
-- **Light/Dark theme** toggle (saved in localStorage)
-- Time‑based greeting
-- Basic client‑side form validation (front‑end only)
+# Open index.html in your browser (or use VS Code Live Server)
 
 ## Project structure
 ```

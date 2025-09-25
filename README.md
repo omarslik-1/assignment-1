@@ -5,7 +5,7 @@ A simple, responsive personal portfolio starter built for **Assignment 1 – Fou
 ## Live demo
 If you deploy with GitHub Pages, your link will look like:
 ```
-https://omarslik-1.github.io/assignment-1/
+https://omarslik-1.github.io/assignment-1
 ```
 
 ## Run locally
